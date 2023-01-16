@@ -1,0 +1,68 @@
+.style-button-orders-detail {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #495057;
+    padding-bottom: 15px;
+}
+
+.style-font-myOrders {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    letter-spacing: -1.5%;
+    color: #323232;
+}
+.style-detailOrders1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    /* or 92% */
+
+    letter-spacing: -0.015em;
+    width: auto;
+    color: #495057;
+    display: inline-block;
+    padding-top: 6px;
+}
+
+.style-upper-case-detail-order {
+    text-transform: uppercase;
+}
+.style-detailOrders2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+    width: auto;
+    letter-spacing: -0.015em;
+
+    color: #495057;
+    display: inline-block;
+}
+.style-myorders-detail-button {
+    width: 349px;
+    height: 52px;
+    border: 2px solid #495057;
+}
+
+.style-myorders-detail-center-itens {
+    display: flex;
+    align-items: end;
+    justify-content: right;
+}
+.style-tr-myorders {
+    background: rgba(13, 34, 76, 0.14);
+}
+

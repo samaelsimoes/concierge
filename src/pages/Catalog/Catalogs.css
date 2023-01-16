@@ -1,0 +1,58 @@
+.form-check-input {
+    background-color: #ffffff !important;
+}
+.style-custom {
+    width:100%;
+}
+.style-padding {
+    padding-left: 45px;
+    padding-right: 45px;
+}
+.style-line {
+    border-top: solid 1px;
+    padding-top: 20px!important;
+}
+.style-filter-padding {
+    border-right: 1px solid;
+}
+.style-border {
+    border-right: 1px #fff;
+}
+.icons-style   {
+    cursor: pointer;
+}
+th {
+    background-color: white;
+    font-size: 13px;
+    display: -ms-flexbox;
+    -ms-flex-align: center;
+    font-style: normal;
+    white-space: nowrap;
+}
+td.text-center {
+    font-size: 15px;
+    display: -ms-flexbox;
+    -ms-flex-align: center;
+    font-style: normal;
+    white-space: nowrap;
+}
+.style-fatura {
+    font-weight: bold;
+}
+
+
+.style-h4-catalogs {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5rem;
+    line-height: 72px;
+    letter-spacing: -0.015em;
+    color: #323232;
+    padding-left: 1rem;
+}
+.banner-catalog-style {
+    width: 100vw!important;
+    object-fit: cover!important;
+    object-position: bottom!important;
+}

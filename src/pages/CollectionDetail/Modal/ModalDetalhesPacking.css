@@ -1,0 +1,158 @@
+.modal-width-collections {
+    width: 1000px!important;
+    max-width: 65rem !important
+}
+
+h5 {
+    position: relative;
+    display: inline-block;
+    font-family: sans-serif;
+}
+
+h5::after {
+    content: "";
+    position: absolute;
+    top: 110%;
+    /* posição da linha abaixo do texto relativa a altura do pai */
+    left: 0;
+    width: 100%;
+    /* comprimento da linha relativa ao tamanho do texto */
+    height: 0.1em;
+    /* altura da linha relativa ao valor da font do pai */
+    background-color: #fff;
+    padding-bottom: 1px;
+    text-decoration: none;
+    border-bottom: 2px solid #c0c0c0;
+    padding-bottom: 1px;
+    display: inline-block;
+}
+.border-col-bottom-pck {
+    border-bottom: 1px solid #c2c2c2;
+}
+.style-infos-pckd h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 30px;  
+    
+    /* identical to box height, or 167% */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.015em;
+    
+    color: #495057;
+}
+
+.style-infos-pckd h2 { 
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 30px;
+    text-transform: lowercase;
+    letter-spacing: -0.015em;
+    color: #353535;
+}
+
+.style-infos-pckd h3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    /* or 150% */
+
+    letter-spacing: -0.015em;
+
+    color: #495057;
+}
+
+.style-infos-pckd h4 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -0.015em;
+    color: #495057;
+    text-transform: uppercase;
+}
+.style-infos-packd h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 30px;
+    text-transform: lowercase;
+    letter-spacing: -0.015em;
+    color: #353535;
+}
+.style-infos-pckd-bold h4 {
+    font-weight: bold;
+}
+
+.style-padding-bottom {
+    padding-bottom:5px;
+}
+
+.style-text-modal {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: -0.015em;
+    color: #495057;
+    font-weight: bold;
+    margin-bottom: -10px;
+}
+.style-text-modal-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: -0.015em;
+    color: #495057;
+    margin-bottom: -10px;
+}
+.padding-modal-top {
+    padding-top: 10px;
+}
+.row.mb-2 {
+    border-bottom: 1px solid #000;
+}
+.style-infos-pckd.modal-body.modal-width {
+    padding-left: 50px;
+    padding-right: 0px;
+    
+}
+.col.border-col-bottom {
+    background: rgba(13, 34, 76, 0.2);
+}
+.style-infos-pckd.modal-body {
+    padding-left: 30px;
+    padding-right: 0px;   
+}
+
+.style-modal-detalhes-border {
+    border-top: 1px solid #000000;
+}
+
+.style-modal-header.modal-header {
+    border-bottom: 1px solid #000000;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.style-title-modal-detailPacking {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 50px;
+    /* identical to box height, or 150% */
+    letter-spacing: -0.015em;
+    color: #495057;
+    margin-bottom: -21px;
+    text-transform: uppercase;
+}

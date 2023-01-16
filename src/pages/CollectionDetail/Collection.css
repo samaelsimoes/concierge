@@ -1,0 +1,40 @@
+.img-collection {
+    width: 100%;
+    height: 250px;
+    object-fit: fill;
+    object-position: center;
+}
+.text-product {
+    font-size: 14px;
+    font-family: Montserrat;
+    margin-top: 0.5rem;
+    color: var(--bs-body-color);
+    font-weight: 540;
+}
+.padding-collection {
+    padding-bottom: 20px;
+}
+.style-grid-collection {
+    padding-right: 3rem;
+    padding-left: 3rem;
+}
+@media screen and (max-width: 991px) {
+    .style-grid-collection {
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+}
+.style-container {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.style-collection-button {
+    border-bottom: 1px solid #D5D5D5;
+    border-top: 1px solid #D5D5D5;
+    margin-bottom: 55px;
+    padding-top: 20px;
+}
+.style-container-itens-collection {
+    width: 100%;
+    padding-left: 3rem;
+}

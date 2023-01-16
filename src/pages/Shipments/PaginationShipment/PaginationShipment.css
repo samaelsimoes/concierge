@@ -1,0 +1,35 @@
+.style-pagination {
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    border: 1px;
+    color: rgba(13,34,76,0.8); 
+    background: rgba(255, 255, 255, 0.8);
+
+}
+
+/* .selected {
+    font-weight: bold;
+    background: rgb(223, 225, 230);
+} */
+
+
+.style-pagination:hover {
+    background: rgb(230, 234, 242);
+}
+
+.style-next-previous {
+    color: rgba(13,34,76,0.8); 
+    border: 0px;
+    font-size: 19px;
+    background: #fff;
+}
+.style-next-previous:hover {
+    color: rgba(78, 93, 124, 0.8); 
+}
+.style-previous {
+    margin-right: 0px;
+}
+.style-hidden {
+    display: none;
+}

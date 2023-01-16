@@ -1,0 +1,9 @@
+.style-imagem {
+    height: 550px;
+}
+
+@media (max-width: 800px) {
+    .style-imagem {
+        height: 250px;
+    }
+}

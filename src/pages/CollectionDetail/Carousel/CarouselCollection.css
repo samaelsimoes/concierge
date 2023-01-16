@@ -1,0 +1,11 @@
+.style-image-carousel {
+    height: 600px!Important;
+    width: 100%;
+    object-fit: contain;
+}
+
+@media (max-width: 800px) {
+    .style-image-carousel {
+        height: 400px!important;
+    }
+}

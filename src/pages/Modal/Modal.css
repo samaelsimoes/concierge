@@ -1,0 +1,75 @@
+/**/
+.modal-produtos {
+    padding-left: 0 !important;
+    max-width: 60rem !important;
+}
+
+h5 {
+    position: relative;
+    display: inline-block;
+    font-family: sans-serif;
+}
+
+
+h5::after {
+    content: "";
+    position: absolute;
+    top: 110%;
+    /* posição da linha abaixo do texto relativa a altura do pai */
+    left: 0;
+    width: 100%;
+    /* comprimento da linha relativa ao tamanho do texto */
+    height: 0.1em;
+    /* altura da linha relativa ao valor da font do pai */
+    background-color: #fff;
+    padding-bottom: 1px;
+    text-decoration: none;
+    border-bottom: 2px solid #c0c0c0;
+    padding-bottom: 1px;
+    display: inline-block;
+}
+.border-col-bottom {
+    border-bottom: 1px solid #c2c2c2;
+}
+.style-infos h1{
+    white-space: nowrap;
+    font-size: 12px;
+    font-weight: bold;
+}
+.style-row {
+    background-color: #cecaca;
+    padding: 12px;
+}
+.style-row-second {
+    padding: 10px;
+}
+.style-row-modal {
+    padding-top: 10px;
+    padding-bottom:25px
+}
+.style-padding-bottom {
+    padding-bottom:5px;
+}
+
+.style-text-modal {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: -0.015em;
+    color: #495057;
+    font-weight: bold;
+    margin-bottom: -10px;
+}
+.style-text-modal-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: -0.015em;
+    color: #495057;
+    margin-bottom: -10px;
+}
+.padding-modal-top {
+    padding-top: 10px;
+}

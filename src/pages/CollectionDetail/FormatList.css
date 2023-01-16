@@ -1,0 +1,40 @@
+.style-table-th  th{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.015em;
+    color: rgb(0, 0, 0);
+}
+.style-th-collections {
+    text-align: center!important;
+    vertical-align: middle!important;
+}
+
+.style-th-edge-finishing {
+    margin-top: -53px;
+}
+
+style-table th {
+    text-align: center; 
+}
+
+.style-table td {
+    text-align: center; 
+}
+
+.align-itends-td {
+    text-align: center; 
+    vertical-align: middle;
+}
+
+.style-tag-a {
+    display: flex;
+    flex-direction: row;
+}
+.style-h4-collection {
+    font-size: 36px;
+    font-family: "Montserrat";
+    margin-top: 20px;
+}

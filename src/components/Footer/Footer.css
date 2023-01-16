@@ -1,0 +1,15 @@
+.style-border-footer {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    display: flex;
+    height: 192px;
+    width: 100%;
+    -webkit-box-align: end;
+    align-items: end;
+    padding-bottom: 2rem;
+    -webkit-box-pack: center;
+    justify-content: center;
+    max-width: 495px;
+}
+.style-footer-padding-bottom {
+    padding-bottom: 1rem;
+}

@@ -1,0 +1,18 @@
+.style-margin-product {
+    margin-left: 5%;
+}
+
+.style-container {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+    padding-right: 0px;
+}
+.style-image-collection-list {
+    width: 100%;
+    height: 285px;
+}
+.style-title-collection-list {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

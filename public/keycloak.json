@@ -1,0 +1,10 @@
+{
+    "realm": "customers",
+    "auth-server-url": "https://10.48.12.33/",
+    "ssl-required": "external",
+    "resource": "isus",
+    "credentials": {
+        "secret": "vrxYN6wVIX1QnNHkd9fMLUlBTd2FFkKb"
+    },
+    "confidential-port": 0
+}

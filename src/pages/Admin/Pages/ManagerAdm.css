@@ -1,0 +1,80 @@
+.align-table-left {
+    align-items: left;
+}
+.padding-button-admin {
+    margin-right: 15px;
+}
+
+.table-style-admin th {
+    text-align: left; 
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.015em;
+    color: rgb(0, 0, 0);
+}
+
+.table-style-admin td {
+    text-align: left; 
+}
+.button-admin-td {
+    text-align: right!important;
+}
+.button-admin-th {
+    text-align: right!important;
+}
+.style-padding-bottom-modal-adm {
+    margin-right:15px;
+}
+.style-width-btt-adm{
+    width: 80px;
+}
+.style-btt-modal-adm{
+    margin-top: 20px;
+}
+
+.style-modal-adm > .modal-dialog {
+    max-width: 60rem !important;
+}
+@media screen and (max-width: 1000px) {
+
+    .style-modal-adm > .modal-dialog {
+        max-width:38rem !important;
+    }
+    .style-modal-adm > .modal-dialog > .modal-content {
+        max-width:38rem !important;
+        width: 600px!important;
+    }
+}
+@media screen and (max-width: 600px) {
+    .style-modal-adm > .modal-dialog > .modal-content {
+        width: 550px!important;
+    }
+}
+
+@media screen and (max-width: 570px) {
+    .style-modal-adm > .modal-dialog > .modal-content {
+        width: 450px!important;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .style-modal-adm > .modal-dialog > .modal-content {
+        width: 300px!important;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .style-modal-adm > .modal-dialog > .modal-content {
+        width: 250px!important;
+    }
+}
+.style-class-modal-edit-adm {
+    height: 150px!important;
+    width: 200px!important;
+}
+.style-padding-adm {
+    padding-top: 30px;
+}

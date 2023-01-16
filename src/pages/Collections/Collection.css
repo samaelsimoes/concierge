@@ -1,0 +1,21 @@
+.style-container {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 100%;
+}
+
+.style-with-row{
+    width: 100%;
+}
+
+.style-grid-collection {
+    padding-right: 3rem;
+    padding-left: 3rem;
+}
+
+@media screen and (max-width: 991px) {
+    .style-grid-collection {
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+}

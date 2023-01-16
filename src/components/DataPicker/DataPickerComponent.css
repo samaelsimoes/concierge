@@ -1,0 +1,28 @@
+.padding-modal-data-picker {
+    padding-top:7px;
+}
+.padding-modal-data-picker input {
+    height: 10px;
+    margin-right: -15px!important;
+    font-size: 14px;
+    width: 80%;
+}
+
+.padding-modal-data-picker label {
+    width: 70%;
+    margin-top: -5px; 
+}
+
+.style-data-picker-inicio label {
+    padding-left: 10%
+}
+
+.style-data-picker-final label {
+    padding-left: 15%
+}
+
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root.Mui-focused {
+    margin-top:0px!important;
+    padding-left: 5px;
+}
+

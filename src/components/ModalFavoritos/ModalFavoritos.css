@@ -1,0 +1,56 @@
+.modal-wish {
+    min-width: 45%;
+    margin: 2rem 2rem 0 auto !important;
+}
+
+.end-text {
+    text-align: end !important;
+}
+
+
+.table>tbody {
+    text-align: start;
+    padding: 2rem;
+    vertical-align: middle !important;
+    font-weight: normal;
+}
+
+table>tbody>tr::first-line {
+    width: 70% !important;
+}
+
+.img-modal {
+    height: 85px;
+    width: 85px;
+}
+
+.row-modal {
+    margin: auto;
+    width: 30% !important;
+}
+
+.td-last {
+    min-width: 20% !important;
+    width: 20%;
+    gap: 10px;
+    text-align: end !important;
+}
+
+.style-botton {
+    background: rgba(13,34,76,0.8)!important;
+    color: #fff
+}
+.style-input-modal {
+    width: 85px!Important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
